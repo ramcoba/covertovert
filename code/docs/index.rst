@@ -7,7 +7,9 @@ Basic ICMP Documentation
 ========================
 
 Please add your names and group ID here by editing `index.rst` in the docs folder.
-
+Member 1: Ramazan Ilker Ates
+Member 2: Mustafa Umut Eyidoğan
+Group ID: 84
 
 .. toctree::
    :maxdepth: 2
